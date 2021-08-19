@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <string>
-#include "max.hpp"
+#include "max.hpp"  // import the template "max.hpp"
 
 int main(){
 

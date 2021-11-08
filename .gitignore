@@ -34,3 +34,6 @@
 
 # custom vscode settings file
 **/.vscode
+
+# custom file exclusion
+*test*

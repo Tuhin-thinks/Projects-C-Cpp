@@ -5,4 +5,4 @@ it happened to me, I wanted to learning Cpp, but this programming language becom
 
 *Personal Practice code files, not recomended for considering as a learning resource or as guidance*
 
-[-] Free to use and distribute
+[x] Free to use and distribute
